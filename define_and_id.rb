@@ -23,5 +23,6 @@
 - puts "The .even? method is used on an integer and when called returns a boolean response of true (if the integer was even) and false (if the integer was odd). There must be an integer for it to work."
 
 18.next
+- puts "The .next is called on an integer and returns the integer but adds 1. For example 72.next would return the output of 73."
 
 
