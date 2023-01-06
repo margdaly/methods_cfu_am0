@@ -2,7 +2,11 @@
 # PART 1
 
 # Define a variable that stores a string
-
+new_string = "Margaret"
+p new_string.upcase
+p new_string.downcase
+p new_string.reverse
+p new_string.length
 #  call upcase on the variable, print it out
 #  call downcase on the variable, print it out
 #  call reverse on the variable, print it out
